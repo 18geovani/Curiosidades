@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Eu e os Bits\testedobuilder\bin\Debug\testedobuilder.exe.config
+C:\Users\HP\Desktop\Eu e os Bits\testedobuilder\bin\Debug\testedobuilder.exe
+C:\Users\HP\Desktop\Eu e os Bits\testedobuilder\bin\Debug\testedobuilder.pdb
+C:\Users\HP\Desktop\Eu e os Bits\testedobuilder\obj\Debug\testedobuilder.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Eu e os Bits\testedobuilder\obj\Debug\testedobuilder.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Eu e os Bits\testedobuilder\obj\Debug\testedobuilder.exe
+C:\Users\HP\Desktop\Eu e os Bits\testedobuilder\obj\Debug\testedobuilder.pdb

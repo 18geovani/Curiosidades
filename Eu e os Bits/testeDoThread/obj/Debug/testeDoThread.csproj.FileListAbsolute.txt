@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Eu e os Bits\testeDoThread\obj\Debug\testeDoThread.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Eu e os Bits\testeDoThread\obj\Debug\testeDoThread.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Eu e os Bits\testeDoThread\bin\Debug\testeDoThread.exe.config
+C:\Users\HP\Desktop\Eu e os Bits\testeDoThread\bin\Debug\testeDoThread.exe
+C:\Users\HP\Desktop\Eu e os Bits\testeDoThread\bin\Debug\testeDoThread.pdb
+C:\Users\HP\Desktop\Eu e os Bits\testeDoThread\obj\Debug\testeDoThread.exe
+C:\Users\HP\Desktop\Eu e os Bits\testeDoThread\obj\Debug\testeDoThread.pdb

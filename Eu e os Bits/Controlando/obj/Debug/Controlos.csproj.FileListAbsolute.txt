@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\bin\Debug\Controlos.exe.config
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\bin\Debug\Controlos.exe
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\bin\Debug\Controlos.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\bin\Debug\Guna.UI2.dll
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Debug\Controlos.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Debug\Controlos.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Debug\Controlos.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Debug\Controlos.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Debug\Controlos.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Debug\Controlos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Debug\Controlos.csproj.CopyComplete
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Debug\Controlos.exe
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Debug\Controlos.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Debug\Controlos.UsuárioCont.Home.resources
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Debug\Controlos.UsuárioCont.Definições.resources
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Debug\Controlos.UsuárioCont.Entrada.resources
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Debug\Controlos.UsuárioCont.Saída.resources

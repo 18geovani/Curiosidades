@@ -1,0 +1,22 @@
+C:\Users\HP\Desktop\Eu e os Bits\Eu e os Bits\Review\bin\Debug\Review.exe.config
+C:\Users\HP\Desktop\Eu e os Bits\Eu e os Bits\Review\bin\Debug\Review.exe
+C:\Users\HP\Desktop\Eu e os Bits\Eu e os Bits\Review\bin\Debug\Review.pdb
+C:\Users\HP\Desktop\Eu e os Bits\Eu e os Bits\Review\obj\Debug\Review.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Eu e os Bits\Eu e os Bits\Review\obj\Debug\Review.Form1.resources
+C:\Users\HP\Desktop\Eu e os Bits\Eu e os Bits\Review\obj\Debug\Review.Properties.Resources.resources
+C:\Users\HP\Desktop\Eu e os Bits\Eu e os Bits\Review\obj\Debug\Review.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Eu e os Bits\Eu e os Bits\Review\obj\Debug\Review.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Eu e os Bits\Eu e os Bits\Review\obj\Debug\Review.exe
+C:\Users\HP\Desktop\Eu e os Bits\Eu e os Bits\Review\obj\Debug\Review.pdb
+C:\Users\HP\Desktop\Estudando\C#_&_dotNet\Review\bin\Debug\Review.exe.config
+C:\Users\HP\Desktop\Estudando\C#_&_dotNet\Review\bin\Debug\Review.exe
+C:\Users\HP\Desktop\Estudando\C#_&_dotNet\Review\bin\Debug\Review.pdb
+C:\Users\HP\Desktop\Estudando\C#_&_dotNet\Review\obj\Debug\Review.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Estudando\C#_&_dotNet\Review\obj\Debug\Review.Form1.resources
+C:\Users\HP\Desktop\Estudando\C#_&_dotNet\Review\obj\Debug\Review.Properties.Resources.resources
+C:\Users\HP\Desktop\Estudando\C#_&_dotNet\Review\obj\Debug\Review.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Estudando\C#_&_dotNet\Review\obj\Debug\Review.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Estudando\C#_&_dotNet\Review\obj\Debug\Review.exe
+C:\Users\HP\Desktop\Estudando\C#_&_dotNet\Review\obj\Debug\Review.pdb
+C:\Users\HP\Desktop\Estudando\C#_&_dotNet\Review\bin\Debug\MaterialSkin.dll
+C:\Users\HP\Desktop\Estudando\C#_&_dotNet\Review\obj\Debug\Review.csproj.CopyComplete

@@ -1,0 +1,33 @@
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\bin\Release\Controlos.exe.config
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\bin\Release\Controlos.exe
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\bin\Release\Controlos.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\bin\Release\Guna.UI2.dll
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Release\Controlos.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Release\Controlos.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Release\Controlos.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Release\Controlos.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Release\Controlos.UsuárioCont.Definições.resources
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Release\Controlos.UsuárioCont.Entrada.resources
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Release\Controlos.UsuárioCont.Saída.resources
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Release\Controlos.UsuárioCont.Home.resources
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Release\Controlos.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Release\Controlos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Release\Controlos.csproj.CopyComplete
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Release\Controlos.exe
+C:\Users\HP\Documents\Visual Studio 2022\Controlos\obj\Release\Controlos.pdb
+C:\Users\HP\Desktop\Eu e os Bits\Controlando\bin\Release\Guna.UI2.dll
+C:\Users\HP\Desktop\Eu e os Bits\Controlando\obj\Release\Controlos.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Eu e os Bits\Controlando\obj\Release\Controlos.Form1.resources
+C:\Users\HP\Desktop\Eu e os Bits\Controlando\obj\Release\Controlos.Properties.Resources.resources
+C:\Users\HP\Desktop\Eu e os Bits\Controlando\obj\Release\Controlos.UsuárioCont.Definições.resources
+C:\Users\HP\Desktop\Eu e os Bits\Controlando\obj\Release\Controlos.UsuárioCont.Entrada.resources
+C:\Users\HP\Desktop\Eu e os Bits\Controlando\obj\Release\Controlos.UsuárioCont.Saída.resources
+C:\Users\HP\Desktop\Eu e os Bits\Controlando\obj\Release\Controlos.UsuárioCont.Home.resources
+C:\Users\HP\Desktop\Eu e os Bits\Controlando\obj\Release\Controlos.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Eu e os Bits\Controlando\obj\Release\Controlos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Eu e os Bits\Controlando\obj\Release\Controlos.csproj.CopyComplete
+C:\Users\HP\Desktop\Eu e os Bits\Controlando\bin\Release\Controlando.exe.config
+C:\Users\HP\Desktop\Eu e os Bits\Controlando\bin\Release\Controlando.exe
+C:\Users\HP\Desktop\Eu e os Bits\Controlando\bin\Release\Controlando.pdb
+C:\Users\HP\Desktop\Eu e os Bits\Controlando\obj\Release\Controlando.exe
+C:\Users\HP\Desktop\Eu e os Bits\Controlando\obj\Release\Controlando.pdb

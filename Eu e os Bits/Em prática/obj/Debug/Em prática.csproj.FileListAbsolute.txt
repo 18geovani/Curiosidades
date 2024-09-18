@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Eu e os Bits\Em prática\bin\Debug\Em prática.exe.config
+C:\Users\HP\Desktop\Eu e os Bits\Em prática\bin\Debug\Em prática.exe
+C:\Users\HP\Desktop\Eu e os Bits\Em prática\bin\Debug\Em prática.pdb
+C:\Users\HP\Desktop\Eu e os Bits\Em prática\obj\Debug\Em prática.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Eu e os Bits\Em prática\obj\Debug\Em_prática.Form1.resources
+C:\Users\HP\Desktop\Eu e os Bits\Em prática\obj\Debug\Em_prática.Properties.Resources.resources
+C:\Users\HP\Desktop\Eu e os Bits\Em prática\obj\Debug\Em prática.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Eu e os Bits\Em prática\obj\Debug\Em prática.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Eu e os Bits\Em prática\obj\Debug\Em prática.exe
+C:\Users\HP\Desktop\Eu e os Bits\Em prática\obj\Debug\Em prática.pdb

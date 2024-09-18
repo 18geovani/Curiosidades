@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Eu e os Bits\Eu e os Bits\SwitchCase\bin\Debug\SwitchCase.exe.config
+C:\Users\HP\Desktop\Eu e os Bits\Eu e os Bits\SwitchCase\bin\Debug\SwitchCase.exe
+C:\Users\HP\Desktop\Eu e os Bits\Eu e os Bits\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\Users\HP\Desktop\Eu e os Bits\Eu e os Bits\SwitchCase\obj\Debug\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Eu e os Bits\Eu e os Bits\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Eu e os Bits\Eu e os Bits\SwitchCase\obj\Debug\SwitchCase.exe
+C:\Users\HP\Desktop\Eu e os Bits\Eu e os Bits\SwitchCase\obj\Debug\SwitchCase.pdb

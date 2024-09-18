@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./estilo.css">
+</head>
+<body>
+     <h1>Form com validação em JS</h1>
+
+     <form action="form">
+        <label for="name">Nome: </label>
+     <input type="text"  id="name">
+
+     <label for="email">E-mail: </label>
+     <input type="email" id="email">
+
+     <label for="password">Senha: </label>
+     <input type="password" id="password">
+
+     <label for="job">Trabalho</label>
+     <select name="job" id="job">
+        <option value="">Empregado?</option>
+        <option value="">Sim</option>
+        <option value="">Não</option>
+     </select>
+        <label for="mensagem">Mensagem</label>
+        <textarea name="mensagem" id="message" cols="30" rows="10"></textarea>
+
+        <button>Enviar</button>
+    
+     </form>
+
+    <script src="./main.js"></script>
+</body>
+</html>
